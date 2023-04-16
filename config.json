@@ -1,0 +1,11 @@
+{
+  "user": "your email username",
+  "pass": "your email password",
+  "provider": "your email provider (SMTP or Gmail)",
+  "host": "your email host (only for SMTP)",
+  "port": "your email port (only for SMTP)",
+  "from": "your email address",
+  "subject": "your email subject",
+  "csv": "the name of your CSV file",
+  "html": "the name of your HTML file"
+}
